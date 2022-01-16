@@ -1,0 +1,19 @@
+Enter your salary:
+5000
+Enter your year of service:
+6
+Your bonus for salary is :250.0
+Enter your salary1 :
+5000
+Enter your salary2 :
+6000
+The highest salary is 6000.0
+The lowest salary is 5000.0
+Enter the age of employee :
+18
+Enter the age of employee :
+35
+Enter the age of employee :
+23
+The oldest is 35
+The youngest is 18
